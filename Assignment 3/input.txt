@@ -1,0 +1,8 @@
+Start
+Title: CPSC-246 Atssignment 3
+Table
+Color: Blue
+Row: Header 1,Header 2,Header 3
+Color: Red
+Row: Test 1,Test 2,Test 3
+End
